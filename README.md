@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🐳 IAMNOTWHALE 🙅‍♀️
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kby2009)](https://solved.ac/kby2009)
 
 <!--
 **iamnotwhale/iamnotwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
