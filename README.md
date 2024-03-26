@@ -35,7 +35,7 @@ ___
 
 ##### 📝 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=iamnotwhale)](https://velog.io/@iamnotwhale) 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=iamnotwhale)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=iamnotwhale)](https://iamnotwhale.tistory.com)
 
 ##### 📩 How to reach me
 - Mail: kby2009@korea.ac.kr
