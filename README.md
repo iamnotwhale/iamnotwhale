@@ -3,7 +3,7 @@
 
 
 #### 🐳 I'm...
-> Korea Univ. Biotechnology & Computer Science and Engineering (2021 ~) <br> 인공지능 연합 동아리 deep daiv. (2023.01 ~ 2024.01) <br> 고려대학교 딥러닝 학회 AIKU 3기 (2024.01 ~ 2024.12)
+> Korea Univ. Biotechnology & Computer Science and Engineering (2021 ~) <br> 인공지능 연합 동아리 deep daiv. (2023.01 ~ 2025.01) <br> 고려대학교 딥러닝 학회 AIKU 3기 (2024.01 ~ 2024.12)
 
 ##### 🌱 Currently Learning...
 ___
