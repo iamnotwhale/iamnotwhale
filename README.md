@@ -1,16 +1,16 @@
-### Hello from iamnotwhale / Boyoung Kwon (권보영) 🐳 
+### Boyoung Kwon
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamnotwhale&count_bg=%23AAD4ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #### 🐳 I'm...
-> Korea Univ. Biotechnology & Computer Science and Engineering (2021~) <br> deep daiv. 활동 멤버 (2023.01~) <br> 고려대학교 딥러닝 학회 AIKU 3기 (2024.01~)
+> Korea Univ. Biotechnology & Computer Science and Engineering (2021 ~) <br> 인공지능 연합 동아리 deep daiv. (2023.01 ~ 2024.01) <br> 고려대학교 딥러닝 학회 AIKU 3기 (2024.01 ~ 2024.12)
 
 ##### 🌱 Currently Learning...
 ___
 - Deep Learning
+- Data Science
 - Computer Vision
 - Audio
-- Data Science
 - NLP
 
 ##### 🔭 Currently Interested In...
