@@ -1,20 +1,11 @@
-### Boyoung Kwon
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamnotwhale&count_bg=%23AAD4ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Boyoung Kwon [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamnotwhale&count_bg=%23AAD4ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #### 🐳 I'm...
-> Korea Univ. Biotechnology & Computer Science and Engineering (2021 ~) <br> 인공지능 연합 동아리 deep daiv. (2023.01 ~ 2025.01) <br> 고려대학교 딥러닝 학회 AIKU 3기 (2024.01 ~ 2024.12)
+> Korea Univ. Biotechnology & Computer Science and Engineering (2021 ~) <br> 인공지능 연합 동아리 [deep daiv.](https://deepdaiv.oopy.io/) (2023.01 ~ 2025.01) <br> 고려대학교 딥러닝 학회 [AIKU](https://github.com/AIKU-Official) 3기 (2024.01 ~ 2024.12)
 
-##### 🌱 Currently Learning...
-___
-- Deep Learning
-- Data Science
-- Computer Vision
-- Audio
-- NLP
 
 ##### 🔭 Currently Interested In...
-___
 - Medical AI
 - Data Science
 - Audio
@@ -36,9 +27,6 @@ ___
 ##### 📝 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=iamnotwhale)](https://velog.io/@iamnotwhale) 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=iamnotwhale)](https://iamnotwhale.tistory.com)
-
-##### 📩 How to reach me
-- Mail: kby2009@korea.ac.kr
 
 <!--
 **iamnotwhale/iamnotwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
