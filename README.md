@@ -1,7 +1,8 @@
 #### 🐳 Hello! 
 My name is Boyoung Kwon, a student actively exploring the diverse domains of AI.
 #### 👩‍🎓 Degree 
-- __B.S.__ : Division of Biotechnology, Korea University (2021 - Present, Double Major: Computer Science and Engineering) 
+- __B.S.__ : Division of Biotechnology, Korea University (2021.03 - 2025.08, Double Major: Computer Science and Engineering)
+- __M.S. Candidate__ : Graduate School of Data Science, KAIST (2025.09 - Present)
 
 #### 🔬 Experience
 - 인공지능 연합 동아리 [deep daiv.](https://deepdaiv.oopy.io/) (2023.01 ~ 2025.01)   
