@@ -11,8 +11,6 @@ My name is Boyoung Kwon, a student actively exploring the diverse domains of AI.
 #### 🔭 Research Interest
 - Medical AI
 - Data Science
-- Audio
-- NLP
 
 #### 🎖️ Awards
 - 2023년 K-water 대국민 물 빅데이터 공모전 우수상 (팀: 포피)
