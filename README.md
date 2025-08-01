@@ -13,8 +13,8 @@ My name is Boyoung Kwon, a student actively exploring the diverse domains of AI.
 - 고려대학교 딥러닝 학회 [AIKU](https://github.com/AIKU-Official) 3기 (2024.01 - 2024.12)
 
 #### 🔭 Research Interest
-- Medical AI
 - Data Science
+- Reinforcement learning
 
 #### 🎖️ Awards
 - 2023년 K-water 대국민 물 빅데이터 공모전 우수상 (팀: 포피)
