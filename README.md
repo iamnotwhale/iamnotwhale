@@ -2,11 +2,8 @@
 My name is Boyoung Kwon, a student actively exploring the diverse domains of AI. 
 
 #### 👩‍🎓 Education
-- __B.S.__
-  - Division of Biotechnology, Korea University (2021.03 - 2025.08)
-  - Double Major: Computer Science and Engineering
-- __M.S. Student__
-  - Graduate School of Data Science, KAIST (2025.09 - )
+- __B.S.__ in Biotechnology & Computer Science and Engineering, Korea University (2021.03 - 2025.08)
+- __M.S. Student__ in Graduate School of Data Science, KAIST (2025.09 - Present)
 
 #### 🔬 Experience
 - 인공지능 연합 동아리 [deep daiv.](https://deepdaiv.oopy.io/) (2023.01 - 2025.01)   
@@ -14,7 +11,8 @@ My name is Boyoung Kwon, a student actively exploring the diverse domains of AI.
 
 #### 🔭 Research Interest
 - Data Science
-- Reinforcement learning
+- Reinforcement Learning
+- Computational Modeling
 
 #### 🎖️ Awards
 - 2023년 K-water 대국민 물 빅데이터 공모전 우수상 (팀: 포피)
