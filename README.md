@@ -1,5 +1,5 @@
-#### 🐳 Hello! 
-My name is Boyoung Kwon, a student actively exploring the diverse domains of AI. 
+#### 🐳 Greetings!
+My name is Boyoung Kwon, a student actively exploring the diverse domains of AI. I am currently pursuing my master’s degree at KAIST.
 
 #### 👩‍🎓 Education
 - __B.S.__ in Biotechnology & Computer Science and Engineering, Korea University (2021.03 - 2025.08)
@@ -10,9 +10,9 @@ My name is Boyoung Kwon, a student actively exploring the diverse domains of AI.
 - 고려대학교 딥러닝 학회 [AIKU](https://github.com/AIKU-Official) 3기 (2024.01 - 2024.12)
 
 #### 🔭 Research Interest
+- AI for Science
 - Data Science
-- Reinforcement Learning
-- Computational Modeling
+- MultiAgent Reinforcement Learning 
 
 #### 🎖️ Awards
 - 2023년 K-water 대국민 물 빅데이터 공모전 우수상 (팀: 포피)
