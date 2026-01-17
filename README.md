@@ -1,4 +1,3 @@
-#### 🐳 Greetings!
 My name is Boyoung Kwon, a student actively exploring the diverse domains of AI. I am currently pursuing my master’s degree at KAIST.
 
 #### 👩‍🎓 Education
